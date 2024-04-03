@@ -10,7 +10,7 @@ const Benefits = () => {
     <Section id="features">
       <div className="container relative z-2">
         <Heading
-          className="md:max-w-md lg:max-w-2xl"
+          className="md:max-w-md lg:max-w-2xl lg:text-center"
           title="Chat Smarter, Not Harder with Brainwave"
         />
 
