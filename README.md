@@ -62,7 +62,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/JavaScript-Mastery-Pro/brainwave.git
+git clone https://github.com/chuba-cn/brainwave.git
 cd brainwave
 ```
 
